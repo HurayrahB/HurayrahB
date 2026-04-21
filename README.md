@@ -47,3 +47,4 @@ A Node.js + Express + SQLite to-do app containerized with Docker and orchestrate
 I'm always open to talking about engineering, co-op experiences, or opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hurayrah-butt-282660394/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hurayrahab@gmail.com)
