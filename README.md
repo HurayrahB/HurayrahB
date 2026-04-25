@@ -4,14 +4,6 @@ Computer Engineering student at the University of Waterloo. I'm interested in bu
 
 ---
 
-## About Me
-
-- 🎓 First-year Honours Computer Engineering at the University of Waterloo
-- 🔭 Working toward a technical role at a large tech company where I can sharpen my engineering fundamentals in a structured environment
-- 🛠️ I like building things from scratch — whether that's a ray tracer with no dependencies or a containerized full-stack app
-
----
-
 ## Featured Projects
 
 ### [Ray Tracer in C++](https://github.com/HurayrahB/c-ray-tracing)
