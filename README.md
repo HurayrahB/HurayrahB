@@ -1,6 +1,6 @@
 # Hi, I'm Hurayrah 👋
 
-Computer Engineering student at the University of Waterloo, recently completed my co-op as a team lead at a non-profit where I ran a six-person student team, working on web and content projects. I'm interested in building things close to the metal — systems, compilers, graphics — while also keeping a hand in full-stack and infrastructure work.
+Computer Engineering student at the University of Waterloo. I'm interested in building things close to the metal — systems, compilers, graphics — while also keeping a hand in full-stack and infrastructure work.
 
 ---
 
