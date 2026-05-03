@@ -7,10 +7,10 @@ Computer Engineering student at the University of Waterloo. I'm interested in bu
 ## Featured Projects
 
 ### [Ray Tracer in C++](https://github.com/HurayrahB/c-ray-tracing)
-A CPU ray tracer built from scratch in C++17 with no external dependencies. Implements Lambertian, metal, and dielectric materials using Snell's law and Schlick approximation, a thin-lens camera model with configurable depth of field, stochastic anti-aliasing, and recursive path tracing. Built with C++, CMake.
+CPU ray tracer built from scratch in C++17 with no external dependencies. Implements Lambertian, metal, and dielectric materials with Snell's law refraction and Schlick-approximated reflectance, a positionable thin-lens camera with configurable FOV and defocus disk sampling for depth of field, stochastic supersampling anti-aliasing, and recursive path tracing with configurable bounce depth. Outputs gamma-corrected PPM to stdout. Built with C++17, CMake.
 
 ### [Dockerized Todo App](https://github.com/HurayrahB/docker-todo-app)
-A Node.js + Express + SQLite to-do app containerized with Docker and orchestrated using Compose. Documents hands-on learning of layer caching, named volumes vs. bind mounts, multi-container networking, and multi-stage builds.
+Node.js + Express + SQLite to-do app containerized following Docker's Getting Started Workshop. Covers layer caching and Dockerfile optimization, named volumes vs. bind mounts, multi-container networking with MySQL over a user-defined bridge network, and multi-stage builds. Orchestrated with Docker Compose. Built with Node.js, Docker, Docker Compose.
 
 ---
 
