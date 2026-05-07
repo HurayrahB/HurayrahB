@@ -1,6 +1,6 @@
 # Hi, I'm Hurayrah 👋
 
-Computer Engineering student at the University of Waterloo. I'm interested in building things close to the metal — systems, compilers, graphics — while also keeping a hand in full-stack and infrastructure work.
+Computer Engineering student at the University of Waterloo. I build projects to solidify what I'm learning, currently working in C++, Python, and systems programming. Always looking to pick up new tools and contribute to things that matter.
 
 ---
 
